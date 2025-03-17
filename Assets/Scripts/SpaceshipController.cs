@@ -1,3 +1,5 @@
+// GitHub Copilot (Claude 3.7 Sonnet) used to expidite repetetive code writing and provide suggestions for the following script.
+
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using System.Collections.Generic;

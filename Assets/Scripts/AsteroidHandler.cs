@@ -55,12 +55,13 @@ public class AsteroidHandler : MonoBehaviour
         Destroy(gameObject);
     }
 
-    private void OnColliderEnter(Collision collision)
+    // Detect collisions with the player
+    private void OnTriggerEnter(Collider other)
     {
-        // Check if the collision is with a projectile or another object
-        if (collision.gameObject.CompareTag("Player"))
+        // Check if the object entering the trigger has the "Player" tag
+        if (other.CompareTag("Player"))
         {
-            collision.gameObject.SendMessage("OnIndirectHit", SendMessageOptions.DontRequireReceiver);
+            other.SendMessageUpwards("OnIndirectHit", SendMessageOptions.DontRequireReceiver);
             OnDirectHit();
         }
     }

@@ -5300,6 +5300,10 @@ PrefabInstance:
       value: 24
       objectReference: {fileID: 0}
     - target: {fileID: 5200224371975958054, guid: 7cd2b3da6f055cb43811d858d45faa63, type: 3}
+      propertyPath: indirectHitRadius
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 5200224371975958054, guid: 7cd2b3da6f055cb43811d858d45faa63, type: 3}
       propertyPath: repairCodeDisplayText
       value: 
       objectReference: {fileID: 2165714137900850459}

@@ -24,6 +24,6 @@ Code overview: https://colostate-my.sharepoint.com/:v:/g/personal/zpartain_colos
 
 #### Videos
 These are shared through OneDrive. They can be viewed like YouTube videos or downloaded via the download button at the top left of the page.
-High level overveiw: https://colostate-my.sharepoint.com/:v:/g/personal/zpartain_colostate_edu/ETMq1aUoHORCs9731bXMdTcBm4IZx89-R_wpGblbssB5_g?e=qbSgNx
-Presentation video: https://colostate-my.sharepoint.com/:v:/g/personal/zpartain_colostate_edu/EVjMegK0W4xIgyIUS_c2QOIBGPIVvM5YnGYDwGNlMiDnsg?e=ubiqM6
-Programming video: https://colostate-my.sharepoint.com/:v:/g/personal/zpartain_colostate_edu/EZdcqbL62p9BrLSeCELRuMQBBZSuFezegCyHAw8pOl9UiQ?e=z8zLJZ
+High level overveiw: https://colostate-my.sharepoint.com/:v:/g/personal/zpartain_colostate_edu/ETMq1aUoHORCs9731bXMdTcBm4IZx89-R_wpGblbssB5_g?e=qbSgNx  
+Presentation video: https://colostate-my.sharepoint.com/:v:/g/personal/zpartain_colostate_edu/EVjMegK0W4xIgyIUS_c2QOIBGPIVvM5YnGYDwGNlMiDnsg?e=ubiqM6  
+Programming video: https://colostate-my.sharepoint.com/:v:/g/personal/zpartain_colostate_edu/EZdcqbL62p9BrLSeCELRuMQBBZSuFezegCyHAw8pOl9UiQ?e=z8zLJZ  

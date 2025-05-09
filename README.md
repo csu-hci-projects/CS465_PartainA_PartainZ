@@ -25,3 +25,11 @@ Programming video: https://colostate-my.sharepoint.com/:v:/g/personal/zpartain_c
 
 #### LaTeX Document
 https://www.overleaf.com/read/wpxtcczvfzyb#670c54
+
+#### How to run the project source code:
+1. Open Unity project
+2. Launch SteamVR
+3. Click play in Unity
+4. Enter Participant ID and Modality ("unimodal" or "multimodal") in Unity non-vr game view (VR controllers may need to be set down/stationary for mouse input to function)
+5. Click Begin
+*Trial statistics are saved to "Assets/StreamingAssets/ExperimentStats.csv"*
